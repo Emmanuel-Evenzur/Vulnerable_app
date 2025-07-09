@@ -37,7 +37,7 @@
       <artifactId>spring-boot-starter-data-rest</artifactId>
       <version>1.5.6.RELEASE</version>
       <!-- 
-         WARNING: This application contains serious security vulnerabilities. 
+         WARNING bros!: This application contains serious security vulnerabilities. 
          Use an updated version of this dependency to prevent security issues. 
       -->
     </dependency>
